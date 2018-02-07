@@ -4,13 +4,13 @@ def fizzbuzz(int)
 
   if by3 && by5
     return "FizzBuzz"
-  end
+
   elsif by3
     return "Fizz"
-  end
+
   elsif by5
     return "Buzz"
-  end
+
   else
     return nil
   end
